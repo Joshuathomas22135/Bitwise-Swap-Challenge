@@ -1,4 +1,4 @@
-""" In this assignment, yu will build a Bitwise Swap Challenge using Python. They will practise swapping values without a third variable, using XOR swap, using
+""" Write a python program to build a Bitwise Swap Challenge using Python. They will practise swapping values without a third variable, using XOR swap, using
 left shift to double numbers, detecting different signs with XOR, and dividing numbers without using the / operator."""
 
 print("Swap without 3rd Variable")
